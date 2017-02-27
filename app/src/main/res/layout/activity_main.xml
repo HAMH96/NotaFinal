@@ -50,7 +50,8 @@
                 android:layout_weight="1"
                 android:textColor="@color/black"
                 android:inputType="numberDecimal"
-                android:id="@+id/editPracticas"/>
+                android:id="@+id/editPracticas"
+                android:maxLength="14"/>
         </LinearLayout>
 
         <LinearLayout
@@ -73,7 +74,8 @@
                 android:layout_weight="1"
                 android:textColor="@color/black"
                 android:inputType="numberDecimal"
-                android:id="@+id/editAvance1"/>
+                android:id="@+id/editAvance1"
+                android:maxLength="14"/>
         </LinearLayout>
 
         <LinearLayout
@@ -96,7 +98,8 @@
                 android:layout_weight="1"
                 android:textColor="@color/black"
                 android:inputType="numberDecimal"
-                android:id="@+id/editAvance2"/>
+                android:id="@+id/editAvance2"
+                android:maxLength="14"/>
         </LinearLayout>
 
         <LinearLayout
@@ -117,7 +120,8 @@
                 android:layout_weight="1"
                 android:textColor="@color/black"
                 android:inputType="numberDecimal"
-                android:id="@+id/editAvance3"/>
+                android:id="@+id/editAvance3"
+                android:maxLength="14"/>
         </LinearLayout>
 
         <LinearLayout
@@ -138,7 +142,8 @@
                 android:layout_weight="1"
                 android:textColor="@color/black"
                 android:inputType="numberDecimal"
-                android:id="@+id/editAppFinal"/>
+                android:id="@+id/editAppFinal"
+                android:maxLength="14"/>
         </LinearLayout>
 
         <LinearLayout
@@ -183,7 +188,8 @@
                 android:layout_weight="1"
                 android:textColor="@color/black"
                 android:textSize="22sp"
-                android:id="@+id/showFinalGrade"/>
+                android:id="@+id/showFinalGrade"
+                android:maxLength="13"/>
         </LinearLayout>
 
     </LinearLayout>
