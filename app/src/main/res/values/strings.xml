@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotaFinal</string>
+    <string name="title">Ingrese las notas obtenidas</string>
+    <string name="practicas">Prácticas(60%):</string>
+    <string name="avance1">Avance I Proyecto(5%):</string>
+    <string name="avance2">Avance II Proyecto(7%):</string>
+    <string name="avance3">Avance III Proyecto(8%):</string>
+    <string name="appFinal">Aplicación Final(20%):</string>
+    <string name="notaFinal">Nota Final:</string>
+</resources>
